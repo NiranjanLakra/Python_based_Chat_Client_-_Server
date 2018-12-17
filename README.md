@@ -1,4 +1,4 @@
-# ConventionalBreaker
+# Python_based_Chat_Client_&_Server
 How to Run Chat program :
 
 Server  : python Chat_Server.py 127.0.0.1 1234
