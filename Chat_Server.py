@@ -1,5 +1,5 @@
 banner="+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+"
-banner1="|C|o|n|v|e|n|t|i|o|n|a|l|B|r|e|a|k|e|r|s|.|c|o|m|"
+banner1="|S|T|R|U|G|G|L|E|R|-|N|O|O|B|-|C|Y|B|E|-|S|E|C|.|"
 banner2="+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n"
 print banner.center(145,' '),
 print banner1.center(144,' '),
